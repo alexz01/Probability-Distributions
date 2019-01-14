@@ -1,3 +1,3 @@
 # Probability-Distributions
 
-Basic EDA on University Student Data
+Machine learning class project to find means and variances of variables in data and find loglikelyhood using them.
